@@ -3,7 +3,6 @@
 # Docente: AHMED ALI ABDALLA ESMIN 
 #
 # Aluno: Alfredo Beneti Diani
-# Aluno: João Vitor Costa
 #
 # Trabalho de implementação do algoritmo KNN na base de dados Iris.data
 #
