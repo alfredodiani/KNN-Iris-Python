@@ -12,6 +12,7 @@ Universidade Federal de Lavras - UFLA
 (Federal University of Lavras - Brazil)
 GCC128 - Artificial Inteligence 
 
+
 [PT-BR]
 
 Esta a implementação de um algoritmo KNN como parte de um trabalho acadêmico para aulas da disciplina de Inteligência Artificial
